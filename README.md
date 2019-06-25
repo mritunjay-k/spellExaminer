@@ -11,7 +11,7 @@ Steps to use it are as follows:
 
 #### One thing to notice here is that if this file didn't find any mistake in the file then it must be beacuse of two reasons:
 1. Either you must be an excellent writer.
-2. Or, the mistake done by you is already present present in the python Library and isn't considered a 'mistake' by the creators of Python, which is highly unlikely.
+2. Or, the mistake done by you is already present in the python Library and isn't considered a 'mistake' by the creators of Python, which is highly unlikely.
 
 Found a bug or a suggestion to improve, email me: mritunjayk.1229@outlook.com     
 I'll be happy to help.
